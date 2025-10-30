@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multi-Tool App",
+  "description": "A versatile application featuring a ToDo list, a Gemini-powered chatbot, and an AI image editor.",
+  "requestFramePermissions": []
+}
